@@ -1,4 +1,5 @@
 #更换路径
+#c测试
 getwd()
 setwd("c:/Users/47423/Desktop/")
 #合并表达矩阵
